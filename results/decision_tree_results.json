@@ -1,0 +1,5 @@
+{
+  "model": "decision_tree",
+  "RMSE": 33428.62,
+  "R2": 0.8543
+}
